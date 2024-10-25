@@ -59,10 +59,10 @@ Histórico de Versões
 # Capturas de Tela
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/menu.png?raw=true" alt="Menu" width="300">
-    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/entrada.png?raw=true" alt="Entrada" width="300">
-    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/saida.png?raw=true" alt="Saida" width="300">
-    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/relatorio1.png?raw=true" alt="Filtro de Data" width="300">
-    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/relatorio2.png?raw=true" alt="Relatório" width="300">
+    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/menu.png?raw=true" alt="Menu" width="400">
+    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/entrada.png?raw=true" alt="Entrada" width="400">
+    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/saida.png?raw=true" alt="Saida" width="400">
+    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/relatorio1.png?raw=true" alt="Filtro de Data" width="400">
+    <img src="https://github.com/ViniciusWessner/Registro-de-Pontos/blob/main/assets/relatorio2.png?raw=true" alt="Relatório" width="400">
 </div>
 
